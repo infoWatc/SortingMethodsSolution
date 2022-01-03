@@ -1,4 +1,6 @@
-﻿using System;
+﻿//https://stackoverflow.com/questions/68765332/c-sharp-sort-order-a-textbox-with-given-values/70571196#70571196
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
